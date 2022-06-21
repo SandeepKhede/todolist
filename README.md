@@ -1,2 +1,3 @@
 # todolist
-A simple javascript app that allow use to create a todo list 
+A simple vanilla JavaScript todo app with basic CRUD functionality.
+
